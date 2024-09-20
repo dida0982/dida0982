@@ -20,5 +20,4 @@
 
 ---
 
-## Meu Portfólio  
-🔗 [Acesse Meu Portfólio](https://preview.canva.site/f21d527a-9e4f-46f4-a105-cb756ffa1a2a/guilhermebarrosjroficial.com.br/)
+
