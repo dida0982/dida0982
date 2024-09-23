@@ -1,9 +1,5 @@
 # Guilherme Barros 🖖 | Full Stack Developer
 
-👋 **Sobre mim**
-
-Uma característica marcante de um bom programador é a perseverança e a busca constante por aprendizado. Minha especialidade é transformar ideias em soluções eficientes e funcionais. Estou no último período de Análise e Desenvolvimento de Sistemas, pronto para encarar novos desafios no mundo da tecnologia. 
-
 ## Contato
 📧 **Email**: [dida0982@gmail.com](mailto:dida0982@gmail.com)  
 📞 **Telefone**: +55 61 9 9363-0439
