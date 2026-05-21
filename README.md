@@ -8,12 +8,9 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Backend+Developer+%7C+Fullstack;🛡️+Cybersecurity+%26+Redes;🎓+ADS+Formado+%7C+Engenharia+de+Software;💻+Python+%7C+Java+%7C+JavaScript+%7C+C%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🚀+Backend+Developer+%7C+Fullstack;🛡️+Cybersecurity+%26+Redes;🎓+ADS+Formado+%7C+Engenharia+de+Software;💻+Python+%7C+Java+%7C+JavaScript+%7C+C%23)](https://git.io/typing-svg)
 
 </div>
-
-
-
 
 ---
 
@@ -115,14 +112,15 @@ print(eu.status())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dida0982&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00ff88&title_color=00ff88&icon_color=00ccff&text_color=ffffff&bg_color=000000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dida0982&layout=compact&langs_count=8&theme=radical&border_color=00ff88&title_color=00ff88&text_color=ffffff&bg_color=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dida0982&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00ff88&title_color=00ff88&icon_color=00ccff&text_color=ffffff&bg_color=0D0D0D&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dida0982&layout=compact&langs_count=8&theme=radical&border_color=00ff88&title_color=00ff88&text_color=ffffff&bg_color=0D0D0D&cache_seconds=1800&hide=html"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dida0982&theme=neon-dark&border=00FF88&ring=00CCFF&fire=FF00FF&currStreakLabel=00FF88&sideLabels=00CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dida0982&theme=neon-dark&border=00FF88&ring=00CCFF&fire=FF00FF&currStreakLabel=00FF88&sideLabels=00CCFF&dates=FFFFFF&background=0D0D0D" alt="GitHub Streak" />
 
 </div>
 
